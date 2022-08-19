@@ -39,21 +39,13 @@
 
 
 <br />
-<br />
 
-
-
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Suman-kumar23's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
 </details>
 
 [website]: https://suman-kumar23.github.io/sumankumar/
 
 [twitter]: https://twitter.com/sumanku95472357
-[youtube]: https://youtube.com/codeSTACKr
+
 [instagram]: https://instagram.com/kp__suman
 [linkedin]: https://linkedin.com/in/sumanop
