@@ -6,10 +6,10 @@
 ## I'm a Learner, Open-Source Enthusiast , Developer, and Teacher!!
 
 
-- 🌱 I’m currently learning React, Express, GraphQL
+- 🌱 I’m currently learning Rust, React Native, and Sockets.
 - 👯 I’m looking to collaborate in the community.
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🥅 2023 Goals: Have a good understanding in low latency systems and WEB3.
+- ⚡ Fun fact: I'm a vim user.
 
 ### Connect with me:
 
