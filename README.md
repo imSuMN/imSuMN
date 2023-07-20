@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=suman.com&style=for-the-badge&url=https%3A%2F%2Fhttps://suman-kumar23.github.io/sumankumar/)](https://suman-kumar23.github.io/sumankumar/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Suman?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/iSumanKM)
 
-## I'm a Learner, Open-Source Enthusiast , Developer, and Teacher!!
+## I'm a Learner, Open-Source Enthusiast , Developer, and Learner!!
 
 
 - 🌱 I’m currently learning Rust, React Native, and Sockets.
